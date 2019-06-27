@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="707dc487-5b52-4d9a-9469-bc1a366dc9f5" name="Default Changelist" comment="">
+    <list default="true" id="707dc487-5b52-4d9a-9469-bc1a366dc9f5" name="Default Changelist" comment="Committing Project Setup">
       <change beforePath="$PROJECT_DIR$/BookWeb/Book/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/BookWeb/Book/models.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -11,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BookWeb/BookWeb/urls.py">
           <provider selected="true" editor-type-id="text-editor" />
@@ -20,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BookWeb/Book/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+            <state relative-caret-position="345">
+              <caret line="147" lean-forward="true" selection-start-line="147" selection-end-line="147" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -51,10 +51,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="260" />
-    <option name="y" value="20" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="x" value="682" />
+    <option name="y" value="24" />
+    <option name="width" value="978" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -67,24 +67,12 @@
         <subPane>
           <expand>
             <path>
-              <item name="Bookpedeal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Bookpedeal" type="462c0819:PsiDirectoryNode" />
+              <item name="books" type="b2602c69:ProjectViewProjectNode" />
+              <item name="books" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Bookpedeal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Bookpedeal" type="462c0819:PsiDirectoryNode" />
-              <item name="BookWeb" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Bookpedeal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Bookpedeal" type="462c0819:PsiDirectoryNode" />
-              <item name="BookWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="Book" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Bookpedeal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Bookpedeal" type="462c0819:PsiDirectoryNode" />
-              <item name="BookWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="books" type="b2602c69:ProjectViewProjectNode" />
+              <item name="books" type="462c0819:PsiDirectoryNode" />
               <item name="BookWeb" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -147,9 +135,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.037617553" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -159,8 +147,8 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32936078" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32936078" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32833582" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.31484258" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -178,8 +166,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BookWeb/Book/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+        <state relative-caret-position="345">
+          <caret line="147" lean-forward="true" selection-start-line="147" selection-end-line="147" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>
